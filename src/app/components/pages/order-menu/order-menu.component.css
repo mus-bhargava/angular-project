@@ -1,0 +1,16 @@
+.card-header{
+    color: white;
+    background-color: #0B5345 ;
+    text-align: center;
+    font-weight:bold;
+}
+.card{
+    border-color:#0B5345 
+}
+.btn{
+    padding-bottom: 10px;
+    background-color: #0B5345;
+    color:white;
+    font-weight: bold;
+   margin-bottom: 10px;
+}
